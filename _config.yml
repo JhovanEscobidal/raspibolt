@@ -25,6 +25,6 @@ title: RaspiBolt
 tagline: "Bitcoin & Lightning on a Raspberry Pi"
 description: "Build your own 'do-everything-yourself' Bitcoin full node. No need to trust anyone else."
 type: website
-
+Bitcoin.org
 # enable theme for local usage
 #theme: "just-the-docs"
