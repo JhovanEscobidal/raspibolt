@@ -12,7 +12,7 @@ color_scheme: raspibolt-dark.scss
 # defaults
 defaults:
   - scope:
-      path: ""
+      path: "."
     values:
       image: https://raspibolt.org/images/raspibolt3-og-image.png
 
